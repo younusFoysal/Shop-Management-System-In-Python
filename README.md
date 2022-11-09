@@ -38,5 +38,4 @@
 	
 	i.) Exit :- Exit from the Application
 
-	
-	
+	![Screenshot](Screenshots/Screenshot.png)
